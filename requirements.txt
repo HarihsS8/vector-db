@@ -1,0 +1,2 @@
+# Minimal requirements for the vector database
+# This project uses Python standard library only.
